@@ -7,9 +7,10 @@
 	margin: 0;
 	padding: 0;
 }
-@@font-face {
+
+@font-face {
 	font-family: "Herbarium";
-	src:url(OTF/Herbarium.otf) format('otf');
+	src:url(../../static/fonts/Herbarium.woff) format('woff');
 }
 .spotify {
 	content:'';
